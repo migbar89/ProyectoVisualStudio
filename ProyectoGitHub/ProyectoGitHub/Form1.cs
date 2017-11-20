@@ -20,5 +20,10 @@ namespace ProyectoGitHub
         {
             //Esto es el evento load
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //Evento del botton
+        }
     }
 }
