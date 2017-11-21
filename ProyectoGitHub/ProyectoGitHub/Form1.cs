@@ -28,7 +28,7 @@ namespace ProyectoGitHub
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //Evento Button 2
+            //Evento Button
         }
     }
 }
