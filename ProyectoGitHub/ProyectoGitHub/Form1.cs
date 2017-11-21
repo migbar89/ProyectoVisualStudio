@@ -25,5 +25,10 @@ namespace ProyectoGitHub
         {
             //Evento del botton
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //Evento Button 2
+        }
     }
 }
